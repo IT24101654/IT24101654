@@ -25,8 +25,6 @@
 
 - 👯 I’m looking to collaborate on **Web Development & Backend Projects**
 
-- 🤝 I’m looking for help with **Advanced Spring Boot & System Design**
-
 - 👨‍💻 All of my projects are available at [[GitHub Profile](https://github.com/IT24101654)]
 
 - 💬 Ask me about **HTML, CSS, Java, Spring Boot, MySQL**
