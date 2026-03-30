@@ -5,7 +5,7 @@
   </picture>
 
   <h1>Hi 👋, I'm Yasith L. Hasarinda</h1>
-  <h3>A passionate Frontend & Backend Developer from Sri Lanka 🇱🇰</h3>
+  <h3>A passionate Full-Stack Developer from Sri Lanka 🇱🇰</h3>
 
   <img src="https://komarev.com/ghpvc/?username=it24101654&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
@@ -19,15 +19,15 @@
 </picture>
 
 
-- 🔭 I’m currently working on **university projects & personal coding projects**
+- 🔭 I’m currently working on **university and personal full-stack projects**
 
-- 🌱 I’m currently learning **Java, Spring Boot, MySQL, and Python**
+- 🌱 I’m currently learning **Java, Spring Boot, MySQL, Python, JavaScript, MERN Stack, and AI/ML Basics**
 
 - 👯 I’m looking to collaborate on **Web Development & Backend Projects**
 
 - 👨‍💻 All of my projects are available at [[GitHub Profile](https://github.com/IT24101654)]
 
-- 💬 Ask me about **HTML, CSS, Java, Spring Boot, MySQL**
+- 💬 Ask me about **HTML, CSS, Java, Spring Boot, MySQL, Java Script**
 
 - 📫 How to reach me **yasith.hasarinda2003@gmail.com**
 
@@ -35,9 +35,17 @@
 
 ---
 
+### 🚀 Featured Projects
+- 🏫 **NeoSchool** – School Information Management System  
+- 🌿 **EcoLeaf** – Plant Disease Prediction (Preprocessing)  
+- 🚗 **Parkify** – Parking Management System (Ongoing)  
+- 🎨 **Living Art** – Portrait Art Website (Ongoing)
+  
+---
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://fb.com/yasith lathika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yasith lathika" height="50" width="50" /></a>
+<a href="https://fb.com/yasithlathika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yasith lathika" height="50" width="50" /></a>
 <a href="https://instagram.com/hasa_rinda" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Instagram.svg" alt="hasa_rinda" height="50" width="50" /></a>
 </p>
 
