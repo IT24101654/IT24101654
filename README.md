@@ -11,11 +11,12 @@
 </p>
 
 ---
+
+# 👨‍💻 About Me
+
 <picture>
   <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px" />
 </picture>
-
-# 👨‍💻 About Me
 
 - 🔭 Currently working on **University & Personal Full-Stack Projects**
 - 🌱 Learning **Java, Spring Boot, MERN Stack, MySQL, Python & AI/ML Basics**
@@ -82,23 +83,26 @@
 </p>
 
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=IT24101654&show_icons=true&theme=radical&cache_seconds=1800" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT24101654&layout=compact&theme=radical&cache_seconds=1800" />
-
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=IT24101654&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IT24101654&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
+  <img src="https://streak-stats.demolab.com?user=IT24101654&theme=radical&hide_border=true" />
+</p>
 
-<img src="https://streak-stats.demolab.com?user=IT24101654&theme=radical" />
+---
 
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IT24101654&theme=radical&hide_border=true" />
 </p>
 
 ---
