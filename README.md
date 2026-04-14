@@ -11,6 +11,9 @@
 </p>
 
 ---
+<picture>
+  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px" />
+</picture>
 
 # 👨‍💻 About Me
 
@@ -65,11 +68,10 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,java,python,spring,mysql,git,github" />
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python,spring,mysql,git,github,react,nodejs,express,mongodb" />
 
 </p>
 
----
 
 # 🎨 Editing Tools
 
@@ -79,25 +81,23 @@
 
 </p>
 
----
 
 # 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=IT24101654&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=IT24101654&show_icons=true&theme=radical&cache_seconds=1800" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT24101654&layout=compact&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT24101654&layout=compact&theme=radical&cache_seconds=1800" />
 
 </p>
 
----
 
 # 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=IT24101654&theme=radical" />
+<img src="https://streak-stats.demolab.com?user=IT24101654&theme=radical" />
 
 </p>
 
