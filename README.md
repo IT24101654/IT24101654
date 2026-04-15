@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Yasith L. Hasarinda</h1>
 
 <h3 align="center">
-💻 Full-Stack Developer | 🚀 Software Engineering Student | 🇱🇰 Sri Lanka
+💻 Full-Stack Developer | 🚀 Information Technology Student | 🇱🇰 Sri Lanka
 </h3>
 
 <p align="center">
