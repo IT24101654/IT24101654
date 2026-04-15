@@ -7,7 +7,7 @@
 </h3>
 
 <div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+    <img src="https://komarev.com/ghpvc/?username=it24101654&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
 
 ---
@@ -15,7 +15,7 @@
 # 👨‍💻 About Me
 
 <picture>
-  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px" />
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </picture>
 
 - 🔭 Currently working on **University & Personal Full-Stack Projects**
