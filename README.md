@@ -6,9 +6,9 @@
 💻 Full-Stack Developer | 🚀 Information Technology Student | 🇱🇰 Sri Lanka
 </h3>
 
-<div>
-    <img src="https://komarev.com/ghpvc/?username=it24101654&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=IT24101654&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
 ---
 
