@@ -1,38 +1,9 @@
-<!-- ================= HEADER ================= -->
+"<!-- ================= HEADER ================= --> 
+<h1 align="center">Hi 👋, I'm Yasith L. Hasarinda</h1> <h3 align="center"> 💻 Full-Stack Developer | 🚀 Information Technology Student | 🇱🇰 Sri Lanka </h3>
 
-<!--Banner-->
-![Yasith Banner](./banner.png)
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=IT24101654&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" /> </p> ---
 
-<!--Night Owl image-->
-<div>
-  <img align="right" width="40%" 
-  src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
-</div>
-
-<!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Yasith L. Hasarinda
-*Full-Stack Developer | Information Technology Student*
-
-<br/>
-
-<!--Start Intro-->               
-<p align="left">
-
-I am an **Information Technology student** and **Full-Stack Developer** who enjoys building modern web applications and solving real-world problems using technology.  
-I have a strong interest in **Java, Spring Boot, MERN Stack, REST APIs, and Database Systems**.
-
-</p>
-
-- 🔭 Currently working on **University & Personal Full-Stack Projects**
-- 🌱 Currently learning **Java | Spring Boot | MERN Stack | MySQL | Python | AI/ML Basics**
-- 👯 Looking to collaborate on **Web Development & Backend Projects**
-- 💬 Ask me about  
-  **HTML | CSS | Java | Spring Boot | MySQL | JavaScript**
-- 📫 Reach me at  
-  **yasith.hasarinda2003@gmail.com**
-- ⚡ Fun fact: **Call me HASE 😄**
-
-<!--End Intro-->
+# 👨‍💻 About Me <picture> <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png"> </picture> - 🔭 Currently working on **University & Personal Full-Stack Projects** - 🌱 Learning **Java, Spring Boot, MERN Stack, MySQL, Python & AI/ML Basics** - 👯 Looking to collaborate on **Web Development & Backend Projects** - 💬 Ask me about **HTML | CSS | Java | Spring Boot | MySQL | JavaScript** - 📫 Reach me at **yasith.hasarinda2003@gmail.com** - ⚡ Fun fact: **Call me HASE 😄**<!--End Intro-->
 
 <!--Profile Count Badge-->
 <p align="left">
