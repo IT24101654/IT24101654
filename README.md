@@ -52,7 +52,7 @@
 <a href="mailto:yasith.hasarinda2003@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="50"/></a>
 </p>
 
-##
+
 
 <!-- ================= SKILLS ================= -->
 
@@ -62,7 +62,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,java,python,spring,mysql,git,github,react,nodejs,express,mongodb"/>
 </p>
 
-##
+
 
 ## 🎨 Design Tools
 
