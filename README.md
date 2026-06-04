@@ -83,7 +83,7 @@
   📌 *School Information Management System*
   - Student & Teacher Management  
   - Payment Handling  
-  - CRUD Operations (Java + Spring Boot)  
+  - CRUD Operations
 
   ### 🌿 EcoLeaf  
   📌 *Plant Disease Prediction System*
@@ -91,7 +91,9 @@
   - Dataset Cleaning  
   - ML Model Preparation  
 
-  ### 🚗 Parkify *(Ongoing)* 📌 *Parking Management System*
+  ### 🚗 Parkify 📌 *Parking Management System*
+  - AI Assistance
+  - OTP/JWT/Role Based User Management
   - Reservation System  
   - Payment Handling  
   - Vehicle Tracking  
