@@ -38,6 +38,9 @@
 - ⚡ Fun fact  
   **Call me HASE 😄**
 
+- 🌐 Check out my Live Portfolio:  
+  **[hass-dev.netlify.app](https://hass-dev.netlify.app)**
+
 <br clear="right"/>
 
 ---
@@ -79,6 +82,25 @@
 <div>
   <img align="right" width="600" src="https://raw.githubusercontent.com/IT24101654/IT24101654/main/Skills_Animation_Dark.gif">
 
+  ### 🌐 Hass.dev Portfolio  
+  📌 *Immersive 3D Personal Portfolio* ([Live Demo](https://hass-dev.netlify.app))
+  - Interactive 3D Spline Graphics
+  - Smooth Scrolling & Animations
+  - Responsive Glassmorphism UI
+
+  ### 🚗 Parkify 
+  📌 *Parking Management System*
+  - AI Assistance
+  - OTP/JWT/Role Based User Management
+  - Reservation System & Payment Handling  
+  - Vehicle Tracking  
+
+  ### 🤖 J.A.R.V.I.S  
+  📌 *Voice-controlled AI Desktop Assistant*
+  - Real-time Speech Recognition
+  - Pluggable Command System
+  - Weather & Wiki API Integrations
+
   ### 🏫 NeoSchool  
   📌 *School Information Management System*
   - Student & Teacher Management  
@@ -87,21 +109,8 @@
 
   ### 🌿 EcoLeaf  
   📌 *Plant Disease Prediction System*
-  - Image Preprocessing  
-  - Dataset Cleaning  
+  - Image Preprocessing & Dataset Cleaning
   - ML Model Preparation  
-
-  ### 🚗 Parkify 📌 *Parking Management System*
-  - AI Assistance
-  - OTP/JWT/Role Based User Management
-  - Reservation System  
-  - Payment Handling  
-  - Vehicle Tracking  
-
-  ### 🎨 Living Art *(Ongoing)* 📌 *Portrait Art Website*
-  - Online Ordering  
-  - Product Showcase  
-  - Responsive UI  
 </div>
 
 <br clear="right"/>
