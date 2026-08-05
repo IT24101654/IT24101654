@@ -55,8 +55,6 @@
 <a href="mailto:yasith.hasarinda2003@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="50"/></a>
 </p>
 
-
-
 <!-- ================= SKILLS ================= -->
 
 ## 🧠 Tech Stack
@@ -64,8 +62,6 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,java,python,spring,mysql,git,github,react,nodejs,express,mongodb"/>
 </p>
-
-
 
 ## 🎨 Design Tools
 
@@ -117,7 +113,6 @@
 
 ---
 
-
 <!-- ================= STATS ================= -->
 
 ## 📊 GitHub Stats
@@ -135,7 +130,7 @@
 ## 📊 Activity Radar
 
 <p align="center">
-  <img src="./profile-summary-card-output/radical/0-profile-details.svg" />
+  <img src="https://raw.githubusercontent.com/IT24101654/IT24101654/main/profile-summary-card-output/radical/0-profile-details.svg" />
 </p>
 
 ---
@@ -143,7 +138,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-<img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=IT24101654&theme=radical&hide_border=true"/>
+  <img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=IT24101654&theme=radical&hide_border=true"/>
 </p>
 
 ---
