@@ -135,14 +135,6 @@
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=IT24101654&theme=radical&hide_border=true"/>
-</p>
-
----
-
 <!-- ================= FOOTER ================= -->
 
 <p align="center">
