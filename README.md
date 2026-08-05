@@ -130,10 +130,12 @@
 
 ---
 
-## 🔥 GitHub Streak
+<!-- ================= SUMMARY CARD ================= -->
+
+## 📊 Activity Radar
 
 <p align="center">
-<img height="150em" src="https://streak-stats.demolab.com?user=IT24101654&theme=radical&hide_border=true"/>
+  <img src="./profile-summary-card-output/radical/0-profile-details.svg" />
 </p>
 
 ---
