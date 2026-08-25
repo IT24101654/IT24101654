@@ -118,8 +118,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/IT24101654/IT24101654/main/profile-summary-card-output/radical/3-stats.svg" width="48%" />
-  <img src="https://raw.githubusercontent.com/IT24101654/IT24101654/main/profile-summary-card-output/radical/1-repos-per-language.svg" width="48%" />
+  <img src="https://raw.githubusercontent.com/IT24101654/IT24101654/main/profile-summary-card-output/radical/3-stats.svg" width="40%" />
+  <img src="https://raw.githubusercontent.com/IT24101654/IT24101654/main/profile-summary-card-output/radical/1-repos-per-language.svg" width="40%" />
 </p>
 
 ---
@@ -133,7 +133,9 @@
 </p>
 
 ---
-
+<p align="center">
+  <img src="./example.gif" alt="Example Game" width="1100">
+</p>
 <!-- ================= FOOTER ================= -->
 
 <p align="center">
