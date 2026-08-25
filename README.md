@@ -118,9 +118,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=IT24101654&show_icons=true&theme=radical&hide_border=true"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IT24101654&layout=compact&theme=radical&hide_border=true"/>
+  <img src="https://raw.githubusercontent.com/IT24101654/IT24101654/main/profile-summary-card-output/radical/3-stats.svg" width="48%" />
+  <img src="https://raw.githubusercontent.com/IT24101654/IT24101654/main/profile-summary-card-output/radical/1-repos-per-language.svg" width="48%" />
 </p>
 
 ---
