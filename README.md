@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<br/><br/>
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+%7C+React;Full-Stack+Web+%26+Mobile+Development;Backend+Engineering+%7C+REST+APIs;Exploring+AI%2FML+%26+Cloud+Technologies"/>
 
