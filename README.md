@@ -4,27 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:020617,25:0F172A,55:1E3A8A,80:0EA5E9,100:38BDF8&text=Yasith%20Hasarinda&fontSize=46&fontAlignY=36&desc=Software%20Developer%20%7C%20BSc%20(Hons)%20IT%20Undergraduate&descAlignY=57&descSize=17&fontColor=ffffff" width="100%"/>
-
-<a href="https://hass-dev.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/yasithhasarinda">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:yasith.hasarinda2003@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/hasa_rinda">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+%7C+React;Full-Stack+Web+%26+Mobile+Development;Backend+Engineering+%7C+REST+APIs;Exploring+AI%2FML+%26+Cloud+Technologies"/>
+<img src="./banner-merged.svg" width="100%"/>
 
 </div>
 
